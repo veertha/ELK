@@ -1,0 +1,3 @@
+# Logstash settings
+log.level: info
+path.config: /usr/share/logstash/config
